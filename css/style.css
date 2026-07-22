@@ -21,6 +21,14 @@
 }
 
 /*--- HTML Elements ---*/
+
+header {
+
+  background-color: #1f1f1f;
+
+}
+
+
 body {
   padding-bottom: 290px;
   min-height: 100vh;
@@ -125,7 +133,7 @@ iframe {
 }
 
 .homeDramaShot {
-  background-image: url("../images/dramaticCoverArt.jpg");
+  background-image: url("../images/meAndDave.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 11vw;
@@ -136,7 +144,7 @@ iframe {
 .actionTitle {
   text-align: center;
   font-size: xx-large;
-  color: white;
+  color: #2a90dd;
   -webkit-text-stroke: 2px black;
 }
 
